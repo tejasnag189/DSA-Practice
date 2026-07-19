@@ -10,6 +10,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tejasnag189/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tejasnag189/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasnag189/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
