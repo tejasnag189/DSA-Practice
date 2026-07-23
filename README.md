@@ -5,11 +5,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tejasnag189/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 ## String
 | Problem Name | Difficulty |
@@ -20,6 +22,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tejasnag189/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/tejasnag189/DSA-Practice/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasnag189/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -34,6 +37,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -44,4 +48,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
