@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/tejasnag189/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -39,6 +40,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/tejasnag189/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
