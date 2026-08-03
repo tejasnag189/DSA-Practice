@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
@@ -54,6 +56,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
