@@ -49,6 +49,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [1470-shuffle-the-array](https://github.com/tejasnag189/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
