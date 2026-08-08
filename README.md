@@ -50,6 +50,7 @@
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tejasnag189/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/tejasnag189/DSA-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/tejasnag189/DSA-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
