@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/tejasnag189/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tejasnag189/DSA-Practice/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 ## String
 | Problem Name | Difficulty |
@@ -74,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/tejasnag189/DSA-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
