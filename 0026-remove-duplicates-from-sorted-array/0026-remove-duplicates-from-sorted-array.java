@@ -10,7 +10,7 @@ class Solution {
                 left++;
                 nums[left]=nums[right];
             }
-        right++;
+            right++;
         }
     
         return left+1;
