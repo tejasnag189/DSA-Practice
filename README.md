@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/tejasnag189/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasnag189/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/tejasnag189/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/tejasnag189/DSA-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Interactive
