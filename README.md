@@ -19,6 +19,7 @@
 | [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/tejasnag189/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
+| [3360-stone-removal-game](https://github.com/tejasnag189/DSA-Practice/tree/main/3360-stone-removal-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/tejasnag189/DSA-Practice/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
