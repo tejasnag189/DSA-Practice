@@ -51,6 +51,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/tejasnag189/DSA-Practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -67,12 +68,14 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasnag189/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/tejasnag189/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
