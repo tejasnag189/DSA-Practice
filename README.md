@@ -36,6 +36,7 @@
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tejasnag189/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/tejasnag189/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/tejasnag189/DSA-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Interactive
@@ -55,6 +56,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tejasnag189/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/tejasnag189/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
