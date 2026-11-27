@@ -19,6 +19,7 @@
 | [0326-power-of-three](https://github.com/tejasnag189/DSA-Practice/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tejasnag189/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/tejasnag189/DSA-Practice/tree/main/0441-arranging-coins/) | Easy |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [3360-stone-removal-game](https://github.com/tejasnag189/DSA-Practice/tree/main/3360-stone-removal-game/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/tejasnag189/DSA-Practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/tejasnag189/DSA-Practice/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/tejasnag189/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 | [1470-shuffle-the-array](https://github.com/tejasnag189/DSA-Practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/tejasnag189/DSA-Practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tejasnag189/DSA-Practice/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -97,4 +99,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3360-stone-removal-game](https://github.com/tejasnag189/DSA-Practice/tree/main/3360-stone-removal-game/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/tejasnag189/DSA-Practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
